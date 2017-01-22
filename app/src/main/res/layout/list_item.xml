@@ -3,6 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@color/tan_background"
     android:orientation="horizontal">
 
     <ImageView
@@ -25,6 +26,7 @@
             android:layout_height="44dp"
             android:textStyle="bold"
             android:layout_alignParentLeft="true"
+            android:textAppearance="?android:textAppearanceMedium"
             android:gravity="bottom"
             tools:text="lutti" />
 
@@ -34,6 +36,7 @@
             android:layout_height="44dp"
             android:layout_alignParentLeft="true"
             android:layout_below="@id/miwok_text_view"
+            android:textAppearance="?android:textAppearanceMedium"
             android:gravity="top"
             tools:text="one" />
 
