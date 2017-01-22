@@ -11,11 +11,11 @@ Pre-requisites
 - Android Build Tools v23.0.2
 - Android Support Repository v23.3.0
 
-Getting Started
+Screenshot
 ---------------
 
-This sample uses the Gradle build system. To build this project, use the
-"gradlew build" command or use "Import Project" in Android Studio.
+![screenshot_2017-01-22-23-10-55](https://cloud.githubusercontent.com/assets/20916180/22184324/a11efa1e-e0f9-11e6-846b-7061d39001f2.png)
+
 
 Support
 -------
