@@ -14,7 +14,7 @@ Pre-requisites
 Screenshot
 ---------------
 
-![screenshot_2017-01-22-23-10-55](https://cloud.githubusercontent.com/assets/20916180/22184324/a11efa1e-e0f9-11e6-846b-7061d39001f2.png)
+![1485106103306](https://cloud.githubusercontent.com/assets/20916180/22184397/ccb7b7f0-e0fa-11e6-95a6-80de70e3860c.jpg)
 
 
 Support
